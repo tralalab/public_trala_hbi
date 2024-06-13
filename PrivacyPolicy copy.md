@@ -4,7 +4,7 @@ Last Updated: June 13, 2024
 
 ## Introduction
 
-TRALA LAB INC. (“TRALA LAB”, “we”, “us”, or “our”) respects your privacy and is committed to protecting it through our compliance with this policy. This Privacy Policy describes the types of information we may collect from you or that you may provide when you visit our website, mobile app, and other software provided on or in connection with our services, as described in our Terms of Service (collectively, the “Service”) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+TRALA LAB PTE. LTD. (“TRALA LAB”, “we”, “us”, or “our”) respects your privacy and is committed to protecting it through our compliance with this policy. This Privacy Policy describes the types of information we may collect from you or that you may provide when you visit our website, mobile app, and other software provided on or in connection with our services, as described in our Terms of Service (collectively, the “Service”) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 This policy applies to the information we collect:
 
 - On the website.
